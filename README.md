@@ -45,6 +45,10 @@ Questions:
 12. Create a story to showcase all the sheets and dashboard.
 
 Outcome:
+
+![image](https://github.com/user-attachments/assets/626e615b-cb63-4215-b2f2-24b4bc24853a)
+
+
 Created detailed dashboard of Zomato restaurant data and generated key insights which can help in improvement of business processes.
 
 Make relationships with various tables in order to create cross parameter charts from different sheets.
